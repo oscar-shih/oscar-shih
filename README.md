@@ -59,4 +59,4 @@
 [Facebook]: https://facebook.com/mhShih0405
 [instagram]: https://www.instagram.com/shih.mh_0405
 [linkedin]: https://www.linkedin.com/in/oscarshih
-[Gmail]: b08502141@g.ntu.edu.tw
+[Gmail]: mailto:b08502141@g.ntu.edu.tw
