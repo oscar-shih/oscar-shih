@@ -39,13 +39,18 @@
 &nbsp; <br> [![Spotify](https://novatorem-oscar-shih.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oscar-shih)
 
 </table>
+
 ---
+
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#240](https://github.com/s3prl/s3prl/issues/240) in [s3prl/s3prl](https://github.com/s3prl/s3prl)
 <!--END_SECTION:activity-->
+
 ---
+
+
 ### GitHub Stats
 <img align="left" alt="Oscar-shih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oscar-shih&show_icons=true&hide_border=true" />
 
