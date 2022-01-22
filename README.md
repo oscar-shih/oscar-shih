@@ -31,7 +31,11 @@
 <br />
 <br />
 
+
 ---
+### Spotify Playing
+[![Spotify](https://oscar-shih.vercel.app/api/spotify)](https://open.spotify.com/user/oscar-shih)
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
