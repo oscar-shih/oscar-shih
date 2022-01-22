@@ -35,7 +35,7 @@
 ---
 ### Spotify Playing
 
-[![Spotify](https://oscar-shih.vercel.app/api/spotify)](https://open.spotify.com/user/oscar-shih)
+[<img src="https://spotify-oscar-shih.vercel.app/api/spotify-playing" alt="Spotify Playing" width = "350" />](https://open.spotify.com/user/oscar-shih)
 
 
 <details>
