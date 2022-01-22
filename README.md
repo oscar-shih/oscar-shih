@@ -35,7 +35,7 @@
 ---
 ### Spotify Playing
 
-[![Spotify](https://spotify-oscar-shih.vercel.app/api/spotify-playing)](https://open.spotify.com/user/oscar-shih)
+[![Spotify](https://novatorem-oscar-shih.vercel.app/api/spotify)](https://open.spotify.com/user/oscar-shih)
 
 
 <details>
