@@ -34,6 +34,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#240](https://github.com/s3prl/s3prl/issues/240) in [s3prl/s3prl](https://github.com/s3prl/s3prl)
 <!--END_SECTION:activity-->
 
 </details>
