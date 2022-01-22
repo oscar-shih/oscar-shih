@@ -49,4 +49,4 @@
 [GitHub]: https://github.com/oscar-shih
 [Facebook]: https://facebook.com/mhShih0405
 [instagram]: https://www.instagram.com/shih.mh_0405
-[linkedin]: 
+[linkedin]: www.linkedin.com/in/oscarshih
