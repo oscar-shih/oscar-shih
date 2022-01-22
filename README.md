@@ -34,12 +34,9 @@
 
 ---
 ### Spotify Playing
-<table width="100%"> 
-  <td width="100%">
+<table>
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-
-  </td>
+&nbsp; <br> [![Spotify](https://novatorem-oscar-shih.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oscar-shih)
 
 </table>
 
