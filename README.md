@@ -42,7 +42,7 @@
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
   1. ❗️ Opened issue [#240](https://github.com/s3prl/s3prl/issues/240) in [s3prl/s3prl](https://github.com/s3prl/s3prl)
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>: GitHub Stats</summary>
 
   <img align="left" alt="Oscar-shih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oscar-shih&show_icons=true&hide_border=true" />
 
