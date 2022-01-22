@@ -6,6 +6,7 @@
 [<img align="left" alt="OscarShih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="OscarShih | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="OscarShih | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="OscarShih | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 <br />
 
 ### Languages and Tools:
@@ -46,4 +47,5 @@
 [GitHub]: https://github.com/oscar-shih
 [Facebook]: https://facebook.com/mhShih0405
 [instagram]: https://www.instagram.com/shih.mh_0405
-[linkedin]: www.linkedin.com/in/oscarshih
+[linkedin]: https://www.linkedin.com/in/oscarshih
+[Gmail]: b08502141@g.ntu.edu.tw
