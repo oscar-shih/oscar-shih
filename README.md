@@ -36,7 +36,7 @@
 ### Spotify Playing
 <table>
 
-&nbsp; <br> [![Spotify](https://novatorem-oscar-shih.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oscar-shih)
+&nbsp; <br> [![Spotify](https://spotify-oscar-shih.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oscar-shih)
 
 </table>
 
