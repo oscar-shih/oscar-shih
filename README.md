@@ -30,8 +30,6 @@
 <img align="left" alt="Overleaf" width="26px" src="https://s3-eu-west-2.amazonaws.com/wpmedia.outlandish.com/bgv/app/uploads/2013/09/09202723/Overleaf-logo.png" />
 <img align="left" alt="Hackmd" width="26px" src="https://notes.ocf.berkeley.edu/codimd-icon-1024.png" />
 <img align="left" alt="Notion" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/notion_logo_icon_147257.png" />
-<br />
-<br />
 
 ---
 
