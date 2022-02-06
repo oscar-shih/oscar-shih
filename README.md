@@ -28,8 +28,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Overleaf" width="26px" src="https://s3-eu-west-2.amazonaws.com/wpmedia.outlandish.com/bgv/app/uploads/2013/09/09202723/Overleaf-logo.png" />
-<img align="left" alt="Hackmd" width="26px" src="https://notes.ocf.berkeley.edu/codimd-icon-1024.png" />
-<img align="left" alt="Notion" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/notion_logo_icon_147257.png" />
 <br \>
 <br \>
 
