@@ -20,6 +20,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MatLab" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/matlab/matlab.png" />
 <img align="left" alt="VeriLog" width="26px" src="https://i.imgur.com/nRKb3eF.png" />
+<br \>
+<br \>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://miro.medium.com/max/325/1*K8Xv0uWQ63F3G00iTbqMlQ.png" />
@@ -30,6 +32,8 @@
 <img align="left" alt="Overleaf" width="26px" src="https://s3-eu-west-2.amazonaws.com/wpmedia.outlandish.com/bgv/app/uploads/2013/09/09202723/Overleaf-logo.png" />
 <img align="left" alt="Hackmd" width="26px" src="https://notes.ocf.berkeley.edu/codimd-icon-1024.png" />
 <img align="left" alt="Notion" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/notion_logo_icon_147257.png" />
+<br \>
+<br \>
 
 ---
 
