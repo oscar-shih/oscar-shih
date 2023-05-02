@@ -45,7 +45,7 @@
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#240](https://github.com/s3prl/s3prl/issues/240) in [s3prl/s3prl](https://github.com/s3prl/s3prl)
+1. 💪 Opened PR [#4](https://github.com/voidful/asrp/pull/4) in [voidful/asrp](https://github.com/voidful/asrp)
 <!--END_SECTION:activity-->
 
 ---
