@@ -45,7 +45,7 @@
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/voidful/t5-seq2seq-trainer/pull/1) in [voidful/t5-seq2seq-trainer](https://github.com/voidful/t5-seq2seq-trainer)
+1. ❌ Closed PR [#1](https://github.com/voidful/t5-seq2seq-trainer/pull/1) in [voidful/t5-seq2seq-trainer](https://github.com/voidful/t5-seq2seq-trainer)
 <!--END_SECTION:activity-->
 
 ---
