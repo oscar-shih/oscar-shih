@@ -51,9 +51,6 @@
 ---
 
 
-### GitHub Stats
-<img align="left" alt="Oscar-shih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oscar-shih&show_icons=true&hide_border=true" />
-
 
 [GitHub]: https://github.com/oscar-shih
 [Facebook]: https://facebook.com/mhShih0405
